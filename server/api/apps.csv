@@ -1,0 +1,61 @@
+id,name,description,category,tags
+1,MS SQL,Relational database system for Windows/Linux, supports T-SQL and high scalability,Database,SQL;Relational;Enterprise
+2,Photoshop,Professional image editing software, supports layers, filters, vector & raster graphics,Graphics,Design;Photo;Editor
+3,MS Office,Word processing, spreadsheets, presentations,Office Suite,Word;Excel;PowerPoint;Documents
+4,Corel Draw,Vector graphics editor for illustrations and design,Graphics,Vector;Design;Illustration
+5,Web Storm,IDE for JavaScript, TypeScript, Node.js development,IDE,JavaScript;Development;Coding
+6,Oracle,Enterprise relational database system for large-scale applications,Database,SQL;Enterprise;Relational
+7,MySQL,Open-source relational database, supports multi-platform,Database,SQL;Open-source;Relational
+8,PostgreSQL,Advanced open-source relational database, supports JSON and PostGIS,Database,SQL;Open-source;Relational
+9,SQLite,Lightweight file-based relational database, ideal for mobile and small apps,Database,SQL;Embedded;Lightweight
+10,MongoDB,NoSQL document-oriented database, highly scalable,Database,NoSQL;Document;Scalable
+11,Redis,In-memory key-value data store, supports caching and messaging,Database,NoSQL;Cache;In-memory
+12,Visual Studio,Integrated development environment for .NET and C#,IDE,C#;Development;IDE
+13,Eclipse,Open-source IDE for Java and other languages,IDE,Java;Development;IDE
+14,IntelliJ IDEA,IDE for Java, Kotlin and other JVM languages,IDE,Java;Kotlin;Development;IDE
+15,PyCharm,IDE for Python development,IDE,Python;Development;IDE
+16,NetBeans,IDE for Java and PHP development,IDE,Java;PHP;Development;IDE
+17,Atom,Open-source text editor for coding,IDE,Text Editor;Coding;Open-source
+18,Sublime Text,Lightweight text editor with powerful plugins,IDE,Text Editor;Coding;Lightweight
+19,Notepad++,Lightweight source code editor for Windows,IDE,Text Editor;Coding;Lightweight
+20,After Effects,Video compositing and motion graphics software,Graphics,Video;Animation;Editing
+21,Premiere Pro,Video editing software for professionals,Graphics,Video;Editing;Adobe
+22,Illustrator,Vector graphics editor for digital illustrations,Graphics,Design;Vector;Illustration
+23,InDesign,Page layout and design software for print and digital media,Graphics,Publishing;Layout;Design
+24,Blender,Open-source 3D modeling, animation and rendering software,Graphics,3D;Animation;Open-source
+25,Maya,Professional 3D modeling and animation software,Graphics,3D;Animation;Modeling
+26,AutoCAD,Computer-aided design software for engineering and architecture,Graphics,CAD;Design;Engineering
+27,SolidWorks,3D CAD software for mechanical design,Graphics,CAD;Mechanical;3D
+28,Sketch,Design tool for UI, UX and web applications,Graphics,UI;UX;Design
+29,Figma,Web-based collaborative interface design tool,Graphics,UI;UX;Design;Collaborative
+30,Canva,Graphic design tool for marketing and social media,Graphics,Design;Marketing;Social Media
+31,Zoom,Video conferencing and online meetings,Communication,Video;Meeting;Collaboration
+32,Microsoft Teams,Collaboration platform with chat and video meetings,Communication,Collaboration;Chat;Video
+33,Slack,Messaging platform for teams,Communication,Chat;Collaboration;Messaging
+34,Google Meet,Video conferencing tool integrated with Google Workspace,Communication,Video;Meeting;Google
+35,Skype,Communication software for video and voice calls,Communication,Video;Voice;Chat
+36,Outlook,Email client and personal information manager,Communication,Email;Calendar;Microsoft
+37,Thunderbird,Open-source email client,Communication,Email;Open-source;Mail
+38,OneNote,Note-taking and organization tool,Office,Notes;Organization;Microsoft
+39,Evernote,Note-taking and productivity app,Office,Notes;Productivity;Organization
+40,Notion,All-in-one workspace for notes, docs, tasks,Office,Notes;Tasks;Organization
+41,Trello,Visual task management tool with boards,Office,Tasks;Project Management;Collaboration
+42,Asana,Task and project management software,Office,Tasks;Project Management;Team
+43,Jira,Project and issue tracking software for agile teams,Office,Tasks;Project Management;Agile
+44,Confluence,Collaboration and documentation platform,Office,Documentation;Collaboration;Team
+45,Git,Version control system for code,Development,Git;Version Control;Coding
+46,Github,Web-based platform for Git repositories,Development,Git;Collaboration;Code Hosting
+47,GitLab,Web-based DevOps platform,Development,Git;CI/CD;Repositories
+48,Docker,Containerization platform for applications,Development,Containers;DevOps;Virtualization
+49,Kubernetes,Open-source container orchestration platform,Development,Containers;Orchestration;Scalable
+50,Ansible,IT automation and configuration management tool,Development,Automation;Configuration;DevOps
+51,Jenkins,Automation server for CI/CD pipelines,Development,CI/CD;Automation;DevOps
+52,Terraform,Infrastructure as Code tool for cloud resources,Development,Infrastructure;Cloud;Automation
+53,Power BI,Business analytics and data visualization software,Office,Analytics;Visualization;Microsoft
+54,Tableau,Business intelligence and data visualization platform,Office,Analytics;Visualization
+55,QlikView,Business intelligence tool for reporting and dashboards,Office,Analytics;BI;Visualization
+56,SPSS,Statistical analysis software,Office,Statistics;Analytics;IBM
+57,RStudio,IDE for R programming and statistical computing,IDE,R;Statistics;IDE
+58,Matlab,Numerical computing and simulation software,IDE,Mathematics;Simulation;IDE
+59,Octave,Open-source numerical computing software,IDE,Mathematics;Simulation;Open-source
+60,Visual Paradigm,Software modeling and UML tool,Graphics,UML;Modeling;Design
